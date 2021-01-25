@@ -15,3 +15,4 @@ ActiveStorage.start()
 
 //= require jquery
 //= require bootstrap-sprockets
+
